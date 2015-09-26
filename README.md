@@ -6,7 +6,7 @@ The engineers behind this service were experementing with some new, strange hash
 Log in and grab some fresh user data while it's still hot!   
 
 ## CHALLENGE ##
-Vulnerable web service: [lwapd.pythonanywhere.com/spacejam256](lwapd.pythonanywhere.com/spacejam256)   
+Vulnerable web service: http://lwapd.pythonanywhere.com/spacejam256    
 The leaked data is in password_dump.txt        
 Also, an example hash-reverser written in python is included    
 For maxumum fun, turn your volume on full blast    
