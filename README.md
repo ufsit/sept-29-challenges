@@ -2,7 +2,7 @@
 
 A webservice has been hacked and is still vulnerable!   
 Hackers have released data containing usernames, and some sort of hashed value.   
-The engineers behind tthis service were experementing with some new, strange hashing algorithm.   
+The engineers behind this service were experementing with some new, strange hashing algorithm.   
 Log in and grab some fresh user data while it's still hot!   
 
 ## CHALLENGE ##
